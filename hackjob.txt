@@ -1,3 +1,3 @@
-This is a hack-job file.
+This is a hack-job file with change A.
 
 This is a new line in the hack-job file.
